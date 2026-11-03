@@ -1821,7 +1821,7 @@ button,a {
   bottom: 20px;
 }
 .category-card:hover {
-  background: linear-gradient(145deg, #51404a 0%, #282129 100%);
+  background: linear-gradient(145deg, #715a68 0%, #282129 100%);
 }
 /* Banner merah ajakan di bagian bawah dibuat lebih pendek dan padat. */
 .contact-banner { padding: 14px 0; }
